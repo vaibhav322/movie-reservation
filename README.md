@@ -13,7 +13,9 @@ A User can choose from a list of functionalities
 Movie Menu 
 
 A User can choose from various movies and show timings.
+
 <img width="552" alt="movie_menu" src="https://github.com/user-attachments/assets/906606a6-4d06-4679-bbe7-4368cd274bd2">
+
 Card Registration 
 Allows user to register for a DT card with special benefits
 
